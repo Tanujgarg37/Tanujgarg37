@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="250px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Vasu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Tanuj Garg</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujgarg37&label=Profile%20views&color=0e75b6&style=flat" alt="tanujgarg37" /> </p>
